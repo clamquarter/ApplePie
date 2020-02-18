@@ -133,14 +133,14 @@
                                                     </button>
                                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="A5J-N7-4U3">
                                                         <rect key="frame" x="716.5" y="0.0" width="238.5" height="31.5"/>
-                                                        <state key="normal" title="O"/>
+                                                        <state key="normal" title="N"/>
                                                         <connections>
                                                             <action selector="buttonTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Bzv-bK-72s"/>
                                                         </connections>
                                                     </button>
                                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="wBl-4Q-toD">
                                                         <rect key="frame" x="955" y="0.0" width="239" height="31.5"/>
-                                                        <state key="normal" title="P"/>
+                                                        <state key="normal" title="O"/>
                                                         <connections>
                                                             <action selector="buttonTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="4kO-7G-Uel"/>
                                                         </connections>
@@ -152,7 +152,7 @@
                                                 <subviews>
                                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="GHg-mC-Kdd">
                                                         <rect key="frame" x="0.0" y="0.0" width="239" height="31"/>
-                                                        <state key="normal" title="Q"/>
+                                                        <state key="normal" title="P"/>
                                                         <connections>
                                                             <action selector="buttonTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="cHl-4w-XKp"/>
                                                         </connections>
