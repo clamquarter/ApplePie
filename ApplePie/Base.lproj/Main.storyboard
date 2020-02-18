@@ -159,14 +159,14 @@
                                                     </button>
                                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="9jo-yW-ouI">
                                                         <rect key="frame" x="239" y="0.0" width="238.5" height="31"/>
-                                                        <state key="normal" title="R"/>
+                                                        <state key="normal" title="Q"/>
                                                         <connections>
                                                             <action selector="buttonTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="tp6-70-sz9"/>
                                                         </connections>
                                                     </button>
                                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="XzB-b6-Jpe">
                                                         <rect key="frame" x="477.5" y="0.0" width="239" height="31"/>
-                                                        <state key="normal" title="S"/>
+                                                        <state key="normal" title="R"/>
                                                         <connections>
                                                             <action selector="buttonTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="2hq-M1-2q5"/>
                                                         </connections>
