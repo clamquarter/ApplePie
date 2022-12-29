@@ -5,7 +5,7 @@ ApplePie is a class project from my CIS 215 course. Students were tasked with bu
 <ul>
 <li>Arrays are used to populate UI data.</li>
 <li>Custom functions are used.</li>
-<li>UI objects are oganized into stacks or have dynamic alignment.</li>
+<li>UI objects are oganized into stacks or have dynamic constraints.</li>
 <li>UI data is dynamic/not hardcoded.</li>
 <li>Game displays score/results.</li>
 </ul>
