@@ -9,8 +9,9 @@ In ApplePie, the user plays a very familiar classic: Hangman. It's called AppleP
 <li>UI data is dynamic/not hardcoded.</li>
 <li>Game displays score/results.</li>
 </ul>
-
-
+<div>
+<img src="https://github.com/clamquarter/ApplePie/blob/master/images/ApplePieStart.png" width="300"> <img src="https://github.com/clamquarter/ApplePie/blob/master/images/ApplePieLosing.png" width="300">
+</div>
 
 <h3>What I Learned</h3>
 <ul>
