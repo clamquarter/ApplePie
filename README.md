@@ -1,6 +1,7 @@
 # ApplePie
 
-ApplePie is a class project from my CIS 215 course. Students were tasked with building a small game that made use of several concepts learned in class:
+<h3>Summary</h3>
+In ApplePie, the user plays a very familiar classic: Hangman. It's called ApplePie because instead of a morbid stick figure set to hang, the user plays with apples on a tree. If they guess wrong, they lose an apple ad have fewer to harvest for apple pie. ApplePie is a  project from my CIS 215 course. Students were tasked with:<br><br>
 
 <ul>
 <li>Arrays are used to populate UI data.</li>
@@ -11,8 +12,6 @@ ApplePie is a class project from my CIS 215 course. Students were tasked with bu
 </ul>
 
 
-<h3>Summary</h3>
-In ApplePie, the user plays a very familiar classic: Hangman. It's called ApplePie because instead of a morbid stick figure set to hang, the user plays with apples on a tree. If they guess wrong, they lose an apple ad have fewer to harvest for apple pie. In this project, I made use of an array, computed variables, and custom functions to make this functionality possible.
 
 <h3>What I Learned</h3>
 <ul>
