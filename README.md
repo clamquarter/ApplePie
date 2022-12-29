@@ -2,7 +2,6 @@
 
 <h3>Summary</h3>
 In ApplePie, the user plays a very familiar classic: Hangman. It's called ApplePie because instead of a morbid stick figure set to hang, the user plays with apples on a tree. If they guess wrong, they lose an apple ad have fewer to harvest for apple pie. ApplePie is a  project from my CIS 215 course. Students were tasked with:<br><br>
-
 <ul>
 <li>Arrays are used to populate UI data.</li>
 <li>Custom functions are used.</li>
